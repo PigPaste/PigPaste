@@ -6,8 +6,9 @@
   - [HomeLab Project Overview](https://github.com/PigPaste/HomelabProject/)
 
 <h2>Networking Projects:</h2>
+
 - <b>Jeremy's IT Mega CCNA Lab</b>
-  - [CCNA Mega Lab] (https://github.com/PigPaste/CCNALab)
+  - [CCNA Mega Lab](https://github.com/PigPaste/CCNALab/)
 
 <h2>Certifications</h2>
 
