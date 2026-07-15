@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Homelab Project</b>
-  - [HomeLab Project]([https://github.com/PigPaste/HomelabProject/]
+  - [HomeLab Project Overview](https://github.com/PigPaste/HomelabProject/)
 
 <h2>Certifications</h2>
 
