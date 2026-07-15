@@ -12,11 +12,11 @@
 
 <h2>Certifications</h2>
 
-- <b>CompTIA A+</b>
-- <b>CompTIA Network+</b>
-- <b>CompTIA Server+</b>
-- <b>CompTIA Security+</b>
-- <b>Cisco CCNA</b>
+- [<b>CompTIA A+</b>](https://www.credly.com/badges/a07df086-4f9b-4471-aa66-ae4c46e6de99/public_url)
+- [<b>CompTIA Network+</b>](https://www.credly.com/badges/f7fd4f69-3dec-4dfc-ac07-0f83c5006459/public_url)
+- [<b>CompTIA Server+</b>](https://www.credly.com/badges/28be40dd-eb92-485f-a53f-3f43e2ef18c6/public_url)
+- [<b>CompTIA Security+</b>](https://www.credly.com/badges/3df7ae5a-8b87-4dba-99c2-709086ee6b84/public_url)
+- [<b>Cisco CCNA</b>](https://www.credly.com/badges/616a0181-ae37-4d0a-a136-bd28de761e5c/public_url)
 
 
 <h2>Connect with me:</h2>
