@@ -4,6 +4,7 @@
 
 - <b>Homelab Project</b>
   - [HomeLab Project Overview](https://github.com/PigPaste/HomelabProject/)
+  - [Raspberry Pi Cloud Server](https://github.com/PigPaste/HomelabProject/tree/main/Phase1)
 
 <h2>Networking Projects:</h2>
 
